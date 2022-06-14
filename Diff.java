@@ -1,3 +1,3 @@
 public class class Diff {
-    System.out.println("Difference of A & B is : ");
+    System.out.print("Difference of A & B is : ");
 }
